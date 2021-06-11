@@ -74,6 +74,7 @@ export default function Screen2() {
              </div>
             )}
         </div>
+        <p>click on images to add</p>
         <button onClick={onNextHandler} >Add to Shop</button>    
         </div>
     )
